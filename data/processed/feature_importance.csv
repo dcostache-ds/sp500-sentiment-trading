@@ -1,0 +1,17 @@
+feature,importance
+price_vs_ma20,0.07858168
+rsi_14,0.073397264
+sentiment_lag1,0.07000669
+daily_return,0.0688355
+sentiment_ma5,0.06874262
+volatility_20d,0.063785955
+return_20d,0.06307995
+sentiment_ma20,0.061583832
+sentiment_lag2,0.06079373
+sentiment_score,0.0597872
+sentiment_lag3,0.05884312
+article_count,0.05773141
+volatility_5d,0.05661731
+sentiment_change,0.05628296
+macd,0.05468754
+return_5d,0.047243245
