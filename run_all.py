@@ -3,11 +3,11 @@ import sys
 import time
 
 STEPS = [
-    ("Data collection",     "collect_data.py"),
-    ("Sentiment analysis",  "sentiment_analysis.py"),
-    ("Feature engineering", "feature_engineering.py"),
-    ("Model training",      "train_model.py"),
-    ("Evaluation",          "evaluate.py"),
+    ("Data collection",     "src/collect_data.py"),
+    ("Sentiment analysis",  "src/sentiment_analysis.py"),
+    ("Feature engineering", "src/feature_engineering.py"),
+    ("Model training",      "src/train_model.py"),
+    ("Evaluation",          "src/evaluate.py"),
 ]
 
 
